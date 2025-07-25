@@ -32,20 +32,22 @@
 
 ## 📂 Featured Projects
 
-| Project | Description |
+| Website | Description |
 |--------|-------------|
-| [🔗 Advanced Price Inquiry Plugin](https://github.com/kian-dev/price-inquiry-plugin) | Custom WooCommerce plugin that replaces Buy button with WhatsApp inquiry |
-| [🔗 Excel to WooCommerce Coupon Tool](https://github.com/kian-dev/excel-to-coupon) | Generates coupon codes from Excel for bulk discount campaigns |
-| [🔗 Elementor Countdown Timer Widget](https://github.com/kian-dev/elementor-countdown-timer) | Custom Elementor widget with full styling and countdown logic |
-| [🔗 Elementor Slider with Thumbnails](https://github.com/kian-dev/asanghesti-slider) | Custom slider with clickable image-based indicators |
-| [🌐 RTWEB Official Website](https://rtweb.ir) | Business website and portfolio platform for clients |
+| [🔗 Hamrah Bazargan](https://hamrahbazargan.com) | Custom WordPress site for a transportation and logistics company |
+| [🔗 WAS Company](https://was-co.ir) | Industrial business site with Elementor and WooCommerce integration |
+| [🔗 Dana Energy](https://danaenergy.com) | Corporate website with custom backend enhancements |
+| [🔗 Gol Romi](https://golromi.ir) | Elegant flower shop site with WooCommerce + Elementor styling |
+| [🔗 Decosun](https://decosun.co) | Product showcase and company branding site |
+| [🔗 Asan Ghesti](https://asanghesti.com) | Custom Elementor widgets and finance UI for installment-based sales |
+| [🔗 Raha Gallery](https://rahagalleri.ir) | Artistic e-commerce platform with WooCommerce and unique gallery design |
 
 ---
 
 ## 📬 Contact Me
 
 - 📧 Email: [ksafavi2006@gmail.com](mailto:ksafavi2006@gmail.com)  
-- 💬 Telegram: [@kianrt](https://t.me/itsdemon1979)  
+- 💬 Telegram: [@kianrt](https://t.me/kianrt)  
 - 🌍 Website: [RTWEB.ir](https://rtweb.ir)  
 - 📱 WhatsApp: [+98 913 807 4204](https://wa.me/989138074204)
 
