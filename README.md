@@ -47,7 +47,7 @@
 ## 📬 Contact Me
 
 - 📧 Email: [ksafavi2006@gmail.com](mailto:ksafavi2006@gmail.com)  
-- 💬 Telegram: [@kianrt](https://t.me/kianrt)  
+- 💬 Telegram: [@kianrt](https://t.me/itsdemon1979)  
 - 🌍 Website: [RTWEB.ir](https://rtweb.ir)  
 - 📱 WhatsApp: [+98 913 807 4204](https://wa.me/989138074204)
 
